@@ -1,0 +1,1 @@
+Programul va implementa controlul unui LCD 16x2 folosind acțiunile specifice solicitate de aplicația mobilă ProiectIA. Aceste acțiuni vor permite afișarea de texte, pictograme personalizate (caractere speciale) și derularea derularea textului în ambele direcții, ideal prin utilizarea de întreruperi.
